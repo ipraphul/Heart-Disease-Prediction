@@ -1,4 +1,4 @@
-**# Heart-Disease-Prediction
+**Heart-Disease-Prediction
 Project Name
 Heart Disease Prediction
 Project Description
