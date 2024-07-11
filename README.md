@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+**# Heart-Disease-Prediction
 Project Name
 Heart Disease Prediction
 Project Description
@@ -14,4 +14,4 @@ Machine Learning
 Data Visualization
 Data Analysis
 Technologies
-Python
+Python**
